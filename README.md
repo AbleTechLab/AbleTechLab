@@ -1,144 +1,115 @@
 <div align="center">
 
-# Hi, I'm Azamat Hojiakbarov 👋
+# Azamat Hojiakbarov
 
 ### Full-Stack Developer · AI/ML Engineer · Automation Specialist
 
-<a href="https://github.com/AbleTechLab">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Building+full-stack+web+products;Developing+Python+APIs+and+React+interfaces;Creating+AI%2FML+and+data+solutions;Automating+real+business+workflows"
-    alt="Building full-stack and AI products"
-  />
-</a>
+I build complete software products: user interfaces, APIs, databases, AI workflows,
+Telegram systems, automation, testing, and deployment-ready architecture.
 
-Building complete products from frontend interfaces and backend APIs to AI/ML systems, databases, automation, and deployment.
-
-<p>
-  <a href="https://github.com/AbleTechLab">
-    <img src="https://img.shields.io/badge/GitHub-AbleTechLab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://t.me/Python_Able">
-    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://www.linkedin.com/in/azamat-hojiakbarov-a32413394">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.kaggle.com/azamath1">
-    <img src="https://img.shields.io/badge/Kaggle-azamath1-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://leetcode.com/u/AbleTech/">
-    <img src="https://img.shields.io/badge/LeetCode-AbleTech-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=AbleTechLab&style=flat-square&color=58A6FF&label=Profile+views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/AbleTechLab?style=flat-square&logo=github&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/AbleTechLab?style=flat-square&logo=github&affiliations=OWNER&label=Stars" alt="GitHub stars" />
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Freelance-2ea44f?style=flat-square" alt="Open to work" />
-  <img src="https://img.shields.io/badge/Location-Tashkent%2C%20Uzbekistan-6f42c1?style=flat-square" alt="Location" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-AbleTechLab-181717?style=for-the-badge&logo=github)](https://github.com/AbleTechLab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/azamat-hojiakbarov-a32413394)
+[![Kaggle](https://img.shields.io/badge/Kaggle-azamath1-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/azamath1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-AbleTech-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AbleTech/)
+[![Telegram](https://img.shields.io/badge/Telegram-@Python__Able-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Python_Able)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Featured engineering work
 
-- 🇺🇿 Based in **Tashkent, Uzbekistan**
-- 🌐 Building full-stack applications with **React, TypeScript, Python, Django, FastAPI, and PostgreSQL**
-- 🤖 Developing practical **AI/ML solutions**, data pipelines, and intelligent automation
-- ⚙️ Automating business workflows and integrations with **n8n**
-- 💬 Creating **Telegram bots, Mini Apps, parsers, and external-service integrations**
-- 🧠 Deepening my skills in **LLMs, RAG, NLP, and Speech AI**
-- 🚀 Developing complete SaaS products from architecture and UI to APIs, databases, testing, and deployment
-- 🤝 Open to remote roles, freelance projects, and technical collaborations
+### [YouPilot — AI website builder](https://github.com/AbleTechLab/Ai_web_sites_constructor)
 
----
+A modular Django 5 MVP that converts a business brief into a validated website
+document, editable project, published preview, and autonomous HTML/CSS/JavaScript
+export.
 
-## 🛠️ What I Build
+**Engineering highlights**
 
-- Full-stack web applications, dashboards, admin panels, and SaaS platforms
-- AI/ML prototypes and production-oriented data workflows
-- REST APIs, authentication systems, backend services, and database architectures
-- Telegram bots, Mini Apps, parsers, and automation systems
-- Web scraping, ETL, data collection, and reporting pipelines
-- n8n workflows and third-party service integrations
+- Structured AI output validated with Pydantic instead of publishing arbitrary generated code
+- Database-backed worker pipeline with safe concurrent processing on PostgreSQL
+- Version history, protected draft assets, lead forms, SEO editor, publication controls
+- Nine design families, multiple composition profiles, and a reusable section registry
+- Tests for generation, permissions, versions, assets, publishing, leads, and billing states
+
+`Python` `Django` `PostgreSQL` `Pydantic` `HTML/CSS/JS` `pytest`
 
 ---
 
-## 🧰 Tech Stack
+### [Kaggle Mobile Personal](https://github.com/AbleTechLab/Kaggle_mobile)
 
-### Frontend
+A personal Android client and research reference project for Kaggle workflows.
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+**Engineering highlights**
 
-### Backend & Automation
+- Android 7.0+ support
+- Fully functional Demo Mode
+- Local notebook editor, diagnostics, and settings
+- Reproducible package documentation and feature matrix
+- Fail-closed account access: unsupported native operations remain disabled rather than behaving unsafely
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="aiogram" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
-</p>
-
-### Data & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
-  <img src="https://img.shields.io/badge/LLM%20%26%20RAG-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM and RAG" />
-</p>
-
-### Databases & Engineering Tools
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
-</p>
+`Android` `Python reference adapter` `Mobile UX` `Documentation` `Testing`
 
 ---
 
-## 🌐 Full-Stack Expertise
+### [Bot Manager / Telegram automation platform](https://github.com/AbleTechLab/MagicWorlds_TG)
 
-- **Frontend:** React, TypeScript, JavaScript, Vite, Next.js, responsive UI
-- **Backend:** Python, Django, FastAPI, REST APIs, authentication, and business logic
-- **Data:** PostgreSQL, SQLite, data modeling, migrations, and ETL pipelines
-- **Integration:** Telegram bots, Mini Apps, external APIs, webhooks, and n8n
-- **Quality:** pytest, validation, debugging, and Git-based development
-- **Delivery:** Product architecture, deployment preparation, documentation, and maintenance
+A multi-service system for managing Telegram channels, publications, parsers,
+background workers, and operational workflows.
 
----
+**Engineering highlights**
 
-## 🚀 Current Focus
+- Django/AdminLTE control panel and domain models
+- Telethon-based asynchronous services
+- PostgreSQL, Redis, Nginx, Docker Compose, and background process orchestration
+- Separate Django and SQLAlchemy data-access layers for web and worker workloads
 
-- Reliable full-stack and AI-assisted products
-- LLM/RAG, NLP, Speech AI, and retrieval pipelines
-- Architecture, testing, performance, and production readiness
-- Software that reduces manual work and solves measurable business problems
+`Python` `Django` `Telethon` `PostgreSQL` `Redis` `Docker`
 
 ---
 
-## 📊 GitHub Statistics
+### [Automation workflows](https://github.com/AbleTechLab/n8n_projects)
+
+Reusable n8n workflows and integration experiments for reducing repetitive work,
+connecting external services, and building practical business automation.
+
+`n8n` `Webhooks` `APIs` `Automation`
+
+---
+
+## What I work with
+
+**Backend:** Python, Django, FastAPI, REST APIs, aiogram, Telethon
+**Frontend:** React, TypeScript, JavaScript, Vite, HTML, CSS
+**Data & AI:** pandas, NumPy, scikit-learn, Jupyter, NLP, RAG, LLM workflows
+**Databases:** PostgreSQL, SQLite, data modeling, migrations
+**Engineering:** Git, GitHub Actions, Docker, pytest, Ruff, Linux, VPS deployment
+**Automation:** Telegram bots, Mini Apps, parsers, ETL, n8n, third-party integrations
+
+---
+
+## How I approach engineering
+
+- Build reproducible projects with clear setup instructions
+- Keep security boundaries explicit and fail closed when a feature is unavailable
+- Add tests around permissions, data integrity, and critical product flows
+- Document limitations honestly instead of presenting prototypes as finished production systems
+- Prefer maintainable architecture over one-off scripts
+
+---
+
+## Current focus
+
+- Production-oriented Django and React applications
+- LLM/RAG, NLP, speech, and retrieval pipelines
+- Machine-learning competitions and reproducible experiments
+- Telegram ecosystems and business automation
+- Open-source portfolio quality: CI, releases, documentation, and real usage
+
+---
+
+## GitHub activity
 
 <div align="center">
 
@@ -155,68 +126,19 @@ Building complete products from frontend interfaces and backend APIs to AI/ML sy
 />
 <img
   width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbleTechLab&theme=github_dark"
-  alt="Most used languages in commits"
-/>
-
-<img
-  width="49%"
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbleTechLab&theme=github_dark"
   alt="GitHub statistics"
 />
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbleTechLab&theme=github_dark&utcOffset=5"
-  alt="Most productive coding time"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=AbleTechLab&theme=tokyonight&hide_border=true"
-  alt="GitHub contribution streak"
-/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## Contact
 
-<div align="center">
+I am open to remote roles, freelance projects, and technical collaborations involving
+full-stack development, AI/ML, Python automation, Telegram products, data processing,
+and integration work.
 
-<img
-  src="https://github-profile-trophy-liard-delta.vercel.app/?username=AbleTechLab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
-  alt="AbleTechLab GitHub trophies"
-/>
-
-</div>
-
----
-
-## 📌 Profiles & Practice
-
-<div align="center">
-
-<a href="https://www.kaggle.com/azamath1">
-  <img src="https://img.shields.io/badge/Kaggle-Competitions%20%26%20Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle profile" />
-</a>
-<a href="https://leetcode.com/u/AbleTech/">
-  <img src="https://img.shields.io/badge/LeetCode-Algorithms%20%26%20Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
-</a>
-
-</div>
-
----
-
-## 🤝 Let's Work Together
-
-I am interested in projects involving **full-stack development, AI/ML, Python and React applications, Telegram ecosystems, data processing, web automation, and n8n integrations**.
-
-<p align="center">
-  <a href="https://t.me/Python_Able"><strong>Telegram</strong></a>
-  ·
-  <a href="https://www.linkedin.com/in/azamat-hojiakbarov-a32413394"><strong>LinkedIn</strong></a>
-  ·
-  <a href="https://www.kaggle.com/azamath1"><strong>Kaggle</strong></a>
-  ·
-  <a href="https://leetcode.com/u/AbleTech/"><strong>LeetCode</strong></a>
-</p>
+**Telegram:** [@Python_Able](https://t.me/Python_Able)
+**LinkedIn:** [Azamat Hojiakbarov](https://www.linkedin.com/in/azamat-hojiakbarov-a32413394)
