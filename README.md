@@ -1,8 +1,8 @@
 <div align="center">
 
-Hi, I'm Azamat Hojiakbarov 👋
+# Hi, I'm Azamat Hojiakbarov 👋
 
-AI/ML Engineer · Python Backend Developer · Automation Specialist
+### AI/ML Engineer · Python Backend Developer · Automation Specialist
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Building+AI-powered+products+and+web+platforms;Developing+Python+backends%2C+APIs+and+Telegram+bots;Automating+business+processes+with+n8n;Turning+real-world+problems+into+working+software" alt="Typing SVG" />
 
@@ -27,41 +27,35 @@ AI/ML Engineer · Python Backend Developer · Automation Specialist
 
 </div>
 
-👨‍💻 About Me
+---
 
-🇺🇿 Based in Tashkent, Uzbekistan
+## 👨‍💻 About Me
 
-🤖 Building practical AI/ML solutions, data pipelines, and intelligent automation
+- 🇺🇿 Based in **Tashkent, Uzbekistan**
+- 🤖 Building practical **AI/ML solutions**, data pipelines, and intelligent automation
+- 🐍 Developing backend systems with **Python, Django, FastAPI, and PostgreSQL**
+- ⚙️ Automating business workflows and integrations with **n8n**
+- 💬 Creating **Telegram bots, Mini Apps, parsers, and external-service integrations**
+- 🧠 Currently deepening my skills in **LLM, RAG, NLP, and Speech AI**
+- 🚀 Interested in product development, SaaS platforms, and real-world engineering challenges
+- 🤝 Open to remote roles, freelance projects, and technical collaborations
 
-🐍 Developing backend systems with Python, Django, FastAPI, and PostgreSQL
+---
 
-⚙️ Automating business workflows and integrations with n8n
+## 🛠️ What I Build
 
-💬 Creating Telegram bots, Mini Apps, parsers, and external-service integrations
+- AI/ML prototypes and production-oriented data workflows
+- REST APIs, backend services, dashboards, and SaaS platforms
+- Telegram bots, Mini Apps, and automation systems
+- Web scraping, ETL, data collection, and reporting pipelines
+- n8n workflows and integrations with third-party services
+- Full-stack products using Python backends and React-based interfaces
 
-🧠 Currently deepening my skills in LLM, RAG, NLP, and Speech AI
+---
 
-🚀 Interested in product development, SaaS platforms, and real-world engineering challenges
+## 🧰 Tech Stack
 
-🤝 Open to remote roles, freelance projects, and technical collaborations
-
-🛠️ What I Build
-
-AI/ML prototypes and production-oriented data workflows
-
-REST APIs, backend services, dashboards, and SaaS platforms
-
-Telegram bots, Mini Apps, and automation systems
-
-Web scraping, ETL, data collection, and reporting pipelines
-
-n8n workflows and integrations with third-party services
-
-Full-stack products using Python backends and React-based interfaces
-
-🧰 Tech Stack
-
-Backend & Automation
+### Backend & Automation
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -72,7 +66,7 @@ Backend & Automation
   <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
 </p>
 
-Data & Machine Learning
+### Data & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
@@ -83,7 +77,7 @@ Data & Machine Learning
   <img src="https://img.shields.io/badge/LLM_%26_RAG-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM and RAG" />
 </p>
 
-Frontend & Databases
+### Frontend & Databases
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -95,7 +89,7 @@ Frontend & Databases
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-Tools
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -106,17 +100,18 @@ Tools
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
 </p>
 
-🚀 Current Focus
+---
 
-Building reliable AI-assisted products and automation systems
+## 🚀 Current Focus
 
-Studying advanced LLM/RAG, NLP, Speech AI, and retrieval pipelines
+- Building reliable AI-assisted products and automation systems
+- Studying advanced LLM/RAG, NLP, Speech AI, and retrieval pipelines
+- Improving full-stack architecture, testing, and production readiness
+- Developing tools that reduce manual work and solve measurable business problems
 
-Improving full-stack architecture, testing, and production readiness
+---
 
-Developing tools that reduce manual work and solve measurable business problems
-
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -132,7 +127,9 @@ Developing tools that reduce manual work and solve measurable business problems
   <sub>Statistics are generated from the public GitHub data available to the widgets.</sub>
 </p>
 
-🏆 GitHub Trophies
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -140,9 +137,11 @@ Developing tools that reduce manual work and solve measurable business problems
 
 </div>
 
-🤝 Let's Work Together
+---
 
-I am interested in projects involving AI/ML, Python backend development, Telegram ecosystems, data processing, web automation, and n8n integrations.
+## 🤝 Let's Work Together
+
+I am interested in projects involving **AI/ML, Python backend development, Telegram ecosystems, data processing, web automation, and n8n integrations**.
 
 For collaboration, freelance work, or technical discussions:
 
