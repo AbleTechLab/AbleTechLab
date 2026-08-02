@@ -2,9 +2,11 @@
 
 # Hi, I'm Azamat Hojiakbarov 👋
 
-### AI/ML Engineer · Python Backend Developer · Automation Specialist
+### Full-Stack Developer · AI/ML Engineer · Automation Specialist
 
-Building practical AI products, reliable Python backends, Telegram ecosystems, and business automation.
+<img src="./profile/typing.svg" alt="Full-stack and AI engineering focus" />
+
+Building complete products from frontend interfaces and backend APIs to AI/ML systems, databases, automation, and deployment.
 
 <p>
   <a href="https://github.com/AbleTechLab">
@@ -25,6 +27,7 @@ Building practical AI products, reliable Python backends, Telegram ecosystems, a
 </p>
 
 <p>
+  <img src="https://komarev.com/ghpvc/?username=AbleTechLab&style=flat-square&color=58A6FF&label=Profile+views" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/AbleTechLab?style=flat-square&logo=github&label=Followers" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/AbleTechLab?style=flat-square&logo=github&affiliations=OWNER&label=Stars" alt="GitHub stars" />
   <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Freelance-2ea44f?style=flat-square" alt="Open to work" />
@@ -38,28 +41,40 @@ Building practical AI products, reliable Python backends, Telegram ecosystems, a
 ## 👨‍💻 About Me
 
 - 🇺🇿 Based in **Tashkent, Uzbekistan**
-- 🤖 Building practical **AI/ML solutions**, data pipelines, and intelligent automation
-- 🐍 Developing backend systems with **Python, Django, FastAPI, and PostgreSQL**
+- 🌐 Building full-stack applications with **React, TypeScript, Python, Django, FastAPI, and PostgreSQL**
+- 🤖 Developing practical **AI/ML solutions**, data pipelines, and intelligent automation
 - ⚙️ Automating business workflows and integrations with **n8n**
-- 💬 Creating **Telegram bots, Mini Apps, parsers, and service integrations**
+- 💬 Creating **Telegram bots, Mini Apps, parsers, and external-service integrations**
 - 🧠 Deepening my skills in **LLMs, RAG, NLP, and Speech AI**
-- 🚀 Interested in SaaS, product engineering, and open-source technologies
+- 🚀 Developing complete SaaS products from architecture and UI to APIs, databases, testing, and deployment
 - 🤝 Open to remote roles, freelance projects, and technical collaborations
 
 ---
 
 ## 🛠️ What I Build
 
+- Full-stack web applications, dashboards, admin panels, and SaaS platforms
 - AI/ML prototypes and production-oriented data workflows
-- REST APIs, backend services, dashboards, and SaaS platforms
+- REST APIs, authentication systems, backend services, and database architectures
 - Telegram bots, Mini Apps, parsers, and automation systems
 - Web scraping, ETL, data collection, and reporting pipelines
 - n8n workflows and third-party service integrations
-- Full-stack products with Python backends and React interfaces
 
 ---
 
 ## 🧰 Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
 ### Backend & Automation
 
@@ -83,21 +98,11 @@ Building practical AI products, reliable Python backends, Telegram ecosystems, a
   <img src="https://img.shields.io/badge/LLM%20%26%20RAG-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM and RAG" />
 </p>
 
-### Frontend & Databases
+### Databases & Engineering Tools
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
-### Engineering Tools
-
-<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
@@ -108,12 +113,60 @@ Building practical AI products, reliable Python backends, Telegram ecosystems, a
 
 ---
 
+## 🌐 Full-Stack Expertise
+
+- **Frontend:** React, TypeScript, JavaScript, Vite, Next.js, responsive UI
+- **Backend:** Python, Django, FastAPI, REST APIs, authentication, business logic
+- **Data:** PostgreSQL, SQLite, data modeling, migrations, and ETL pipelines
+- **Integration:** Telegram bots, Mini Apps, external APIs, webhooks, and n8n
+- **Quality:** pytest, validation, debugging, and Git-based development
+- **Delivery:** Product architecture, deployment preparation, documentation, and maintenance
+
+---
+
 ## 🚀 Current Focus
 
-- Reliable AI-assisted products and automation systems
+- Reliable full-stack and AI-assisted products
 - LLM/RAG, NLP, Speech AI, and retrieval pipelines
-- Full-stack architecture, testing, and production readiness
+- Architecture, testing, performance, and production readiness
 - Software that reduces manual work and solves measurable business problems
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/AbleTechLab">
+  <img height="190" src="./profile/stats.svg" alt="Azamat's GitHub statistics" />
+</a>
+<a href="https://github.com/AbleTechLab?tab=repositories">
+  <img height="190" src="./profile/top-langs.svg" alt="Most used languages" />
+</a>
+
+<br />
+
+<a href="https://github.com/AbleTechLab">
+  <img src="./profile/streak.svg" alt="GitHub contribution streak" />
+</a>
+
+</div>
+
+<p align="center">
+  <sub>The cards are generated as local SVG files by GitHub Actions, so the profile does not depend on unstable public statistics endpoints during page loading.</sub>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="./profile/trophy.svg" alt="GitHub trophies" />
+</a>
+
+</div>
 
 ---
 
@@ -134,7 +187,7 @@ Building practical AI products, reliable Python backends, Telegram ecosystems, a
 
 ## 🤝 Let's Work Together
 
-I am interested in projects involving **AI/ML, Python backend development, Telegram ecosystems, data processing, web automation, and n8n integrations**.
+I am interested in projects involving **full-stack development, AI/ML, Python and React applications, Telegram ecosystems, data processing, web automation, and n8n integrations**.
 
 <p align="center">
   <a href="https://t.me/Python_Able"><strong>Telegram</strong></a>
