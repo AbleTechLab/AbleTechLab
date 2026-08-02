@@ -4,13 +4,18 @@
 
 ### Full-Stack Developer · AI/ML Engineer · Automation Specialist
 
-<img src="./profile/typing.svg" alt="Full-stack and AI engineering focus" />
+<a href="https://github.com/AbleTechLab">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Building+full-stack+web+products;Developing+Python+APIs+and+React+interfaces;Creating+AI%2FML+and+data+solutions;Automating+real+business+workflows"
+    alt="Building full-stack and AI products"
+  />
+</a>
 
 Building complete products from frontend interfaces and backend APIs to AI/ML systems, databases, automation, and deployment.
 
 <p>
   <a href="https://github.com/AbleTechLab">
-    <img src="https://img.shields.io/badge/GitHub-AbleTechLab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-AbleTechLab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://t.me/Python_Able">
     <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
@@ -116,7 +121,7 @@ Building complete products from frontend interfaces and backend APIs to AI/ML sy
 ## 🌐 Full-Stack Expertise
 
 - **Frontend:** React, TypeScript, JavaScript, Vite, Next.js, responsive UI
-- **Backend:** Python, Django, FastAPI, REST APIs, authentication, business logic
+- **Backend:** Python, Django, FastAPI, REST APIs, authentication, and business logic
 - **Data:** PostgreSQL, SQLite, data modeling, migrations, and ETL pipelines
 - **Integration:** Telegram bots, Mini Apps, external APIs, webhooks, and n8n
 - **Quality:** pytest, validation, debugging, and Git-based development
@@ -137,24 +142,40 @@ Building complete products from frontend interfaces and backend APIs to AI/ML sy
 
 <div align="center">
 
-<a href="https://github.com/AbleTechLab">
-  <img height="190" src="./profile/stats.svg" alt="Azamat's GitHub statistics" />
-</a>
-<a href="https://github.com/AbleTechLab?tab=repositories">
-  <img height="190" src="./profile/top-langs.svg" alt="Most used languages" />
-</a>
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbleTechLab&theme=github_dark"
+  alt="AbleTechLab GitHub profile details"
+/>
 
-<br />
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbleTechLab&theme=github_dark"
+  alt="Repositories per language"
+/>
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbleTechLab&theme=github_dark"
+  alt="Most used languages in commits"
+/>
 
-<a href="https://github.com/AbleTechLab">
-  <img src="./profile/streak.svg" alt="GitHub contribution streak" />
-</a>
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbleTechLab&theme=github_dark"
+  alt="GitHub statistics"
+/>
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbleTechLab&theme=github_dark&utcOffset=5"
+  alt="Most productive coding time"
+/>
+
+<img
+  src="https://streak-stats.demolab.com?user=AbleTechLab&theme=tokyonight&hide_border=true"
+  alt="GitHub contribution streak"
+/>
 
 </div>
-
-<p align="center">
-  <sub>The cards are generated as local SVG files by GitHub Actions, so the profile does not depend on unstable public statistics endpoints during page loading.</sub>
-</p>
 
 ---
 
@@ -162,9 +183,10 @@ Building complete products from frontend interfaces and backend APIs to AI/ML sy
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="./profile/trophy.svg" alt="GitHub trophies" />
-</a>
+<img
+  src="https://github-profile-trophy-liard-delta.vercel.app/?username=AbleTechLab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+  alt="AbleTechLab GitHub trophies"
+/>
 
 </div>
 
